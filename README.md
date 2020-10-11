@@ -6,9 +6,11 @@ A datapack which makes more resources renewable in Minecraft.
 
 ### Cobweb
 
-S   S
-  E
-S   S
+S _ S
+
+_ E _
+
+S _ S
 
 S = String
 E = Spider Eye
